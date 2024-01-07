@@ -30,7 +30,7 @@ Actualmente, estoy inmersa en el desarrollo web, explorando nuevas tecnologías 
 
 ## Contacto ✍
 
-¡Me encantaría conectar contigo! Puedes encontrarme en LinkedIn [aquí]([www.linkedin.com/in/roma-vallés-padilla-76b9431a5](https://www.linkedin.com/in/roma-vall%C3%A9s-padilla-76b9431a5/)).
+¡Me encantaría conectar contigo! Puedes encontrarme en LinkedIn [aquí](www.linkedin.com/in/roma-vallés-padilla-76b9431a5](https://www.linkedin.com/in/roma-vall%C3%A9s-padilla-76b9431a5/)](https://www.linkedin.com/in/roma-vall%C3%A9s-padilla-76b9431a5/).
 
 ## Otros Intereses ⌛
 
@@ -64,7 +64,7 @@ I'm currently immersed in web development, exploring new technologies, and enhan
 
 ## Contact ✍
 
-I'd love to connect with you! You can find me on LinkedIn [here]([www.linkedin.com/in/roma-vallés-padilla-76b9431a5](https://www.linkedin.com/in/roma-vall%C3%A9s-padilla-76b9431a5/)).
+I'd love to connect with you! You can find me on LinkedIn [here](www.linkedin.com/in/roma-vallés-padilla-76b9431a5](https://www.linkedin.com/in/roma-vall%C3%A9s-padilla-76b9431a5/)](https://www.linkedin.com/in/roma-vall%C3%A9s-padilla-76b9431a5/)).
 
 ## Other Interests ⌛
 
