@@ -1,5 +1,7 @@
 
-![Roma](https://github.com/Romavalles1998/Romavalles1998/assets/145601442/f6964586-705c-4ea2-9324-84965ba060a7)
+![1](https://github.com/Romavalles1998/Romavalles1998/assets/145601442/a6e16d95-4e98-4d09-a7fc-2589a99ab581)
+
+![68747470733a2f2f692e6962622e636f2f6b394e7135637a2f4c6f676f2d47656e6361742d494f4a2d7765622d474a2d312e706e67](https://github.com/Romavalles1998/Romavalles1998/assets/145601442/9e94aad4-9268-439a-9dcd-151508acb25e)
 
 
 # ¡Hola Mundo! 👋 Soy Roma de la Comunidad Valenciana, España.
