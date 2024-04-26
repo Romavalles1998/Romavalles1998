@@ -4,41 +4,7 @@
 ![68747470733a2f2f692e6962622e636f2f6b394e7135637a2f4c6f676f2d47656e6361742d494f4a2d7765622d474a2d312e706e67](https://github.com/Romavalles1998/Romavalles1998/assets/145601442/9e94aad4-9268-439a-9dcd-151508acb25e)
 
 
-# ¡Hola Mundo! 👋 Soy Roma.
-
-## Sobre mí 🙋‍♀️
-
-Soy una persona emprendedora que adora los retos y no se rinde fácilmente. Muy detallista y autodidacta cada día, nunca dejo de aprender y tengo un especial don de gentes. Mi experiencia profesional me ha permitido desarrollar mis habilidades como administrativa. Poseo un vehículo propio y disponibilidad inmediata.
-
-## Educación 📝
-
-- Grado Superior en Administración y Finanzas
-- Diploma en Creación, Programación y Diseño de Páginas Web
-- Actualmente estudiando Desarrollo de Páginas Web
-
-## Habilidades ⚙
-
-- Desarrollo Web: HTML, WordPress
-- Diseño Gráfico: Adobe Photoshop
-- Ofimática
-- Nivel de Inglés: B1
-- Nivel de Valenciano: B1
-
-## Proyecto Actual 💼📊
-
-Actualmente, estoy inmersa en el desarrollo web, explorando nuevas tecnologías y mejorando mis habilidades para crear experiencias impactantes en línea. Me apasiona especialmente el desarrollo de páginas web y el diseño frontend.
-
-## Contacto ✍
-
-¡Me encantaría conectar contigo! Puedes encontrarme en LinkedIn [aquí](https://www.linkedin.com/in/roma-vall%C3%A9s-padilla-76b9431a5/).
-
-## Otros Intereses ⌛
-
-Además del mundo tecnológico, me apasiona el desarrollo de páginas web y el diseño frontend, así como el diseño gráfico como hobby.
-
----
-
-# Hello World! 👋 I'm Roma from Valencian Community, Spain.
+# Hello World! 👋 I'm Roma.
 
 ## About Me 🙋‍♀️
 
