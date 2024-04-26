@@ -4,7 +4,7 @@
 ![68747470733a2f2f692e6962622e636f2f6b394e7135637a2f4c6f676f2d47656e6361742d494f4a2d7765622d474a2d312e706e67](https://github.com/Romavalles1998/Romavalles1998/assets/145601442/9e94aad4-9268-439a-9dcd-151508acb25e)
 
 
-# ¡Hola Mundo! 👋 Soy Roma de la Comunidad Valenciana, España.
+# ¡Hola Mundo! 👋 Soy Roma.
 
 ## Sobre mí 🙋‍♀️
 
